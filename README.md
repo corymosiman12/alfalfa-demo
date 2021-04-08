@@ -1,5 +1,5 @@
 # alfalfa demo
-Simple jupyter notebooks 
+Simple jupyter notebooks demonstrating the use of Alfalfa.
 
 ## Setup
 1. Install poetry
